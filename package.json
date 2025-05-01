@@ -226,7 +226,7 @@
     "@newrelic/test-utilities": "^8.5.0",
     "@octokit/rest": "^21.1.1",
     "@slack/bolt": "^3.7.0",
-    "@smithy/eventstream-codec": "^2.2.0",
+    "@smithy/eventstream-codec": "^4.0.2",
     "@smithy/util-utf8": "^2.3.0",
     "ajv": "^6.12.6",
     "async": "^3.2.4",
